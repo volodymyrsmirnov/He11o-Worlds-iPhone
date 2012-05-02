@@ -1,4 +1,11 @@
-HelloWorlds-iPhone
+He11o-Worlds-iPhone
 ==================
 
-Hello Worlds is an iPhone app showing &quot;hello world&quot; code for different programming languages and information about them
+In this application you can read 170+ code samples of "Hello World" application on different programming languages and find out information about that languages. 
+
+
+External dependencies:
+----------------------
+
+ * Hello World - https://github.com/leachim6/hello-world
+ * TSMiniWebBrowser - https://github.com/tonisalae/TSMiniWebBrowser
